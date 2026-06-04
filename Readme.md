@@ -28,12 +28,14 @@ A drone programming project built on **PySimVerse**, providing templates and uti
 
 ## Installing PySimVerse
 
-PySimVerse is the core simulation library used by this project.
+PySimVerse is the core simulation Environment used by this project.
 
-### Option 1: Install via pip
+  [Pysimverse](https://pysimverse.com/)
+
+### Option 1: Install requiremnts
 
 ```bash
-pip install pysimverse
+pip install -r requirements.txt
 ```
 
 ### Option 2: Install from Source
